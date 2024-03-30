@@ -11,9 +11,28 @@ ol {
 
 a {
   text-decoration: none;
+<<<<<<< HEAD
+=======
+}
+
+.title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  text-align: center;
+  color: #2e2f42;
+>>>>>>> 6504aac9bb9106edf674a4754c9fee79cda623f0
 }
 
 /*============================================*/
+
+.header {
+}
+
+.header-navigation {
+}
 
 .logo {
   font-family: "Raleway", sans-serif;
@@ -27,6 +46,15 @@ a {
 
 .logo-part {
   color: #2e2f42;
+<<<<<<< HEAD
+=======
+}
+
+.nav-list {
+}
+
+.nav-item {
+>>>>>>> 6504aac9bb9106edf674a4754c9fee79cda623f0
 }
 
 .nav-link {
@@ -37,26 +65,53 @@ a {
   color: #2e2f42;
 }
 
+<<<<<<< HEAD
 .nav-link-hover,
 .nav-link-focus,
 .nav-link-active {
+=======
+.nav-link:focus,
+.nav-link:hover,
+.nav-link:active {
+>>>>>>> 6504aac9bb9106edf674a4754c9fee79cda623f0
   color: #404bbf;
 }
 
 .address {
   font-style: normal;
+<<<<<<< HEAD
 }
 
 .address-link {
   font-weight: 400;
+=======
+}
+
+.address-list {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
 
+.address-item {
+}
+
+.address-link {
+>>>>>>> 6504aac9bb9106edf674a4754c9fee79cda623f0
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+<<<<<<< HEAD
 .address-link-hover,
 .address-link-focus {
+=======
+.address-link:hover,
+.address-link:focus {
+>>>>>>> 6504aac9bb9106edf674a4754c9fee79cda623f0
   color: #404bbf;
 }
 
@@ -76,6 +131,10 @@ a {
 }
 
 .hero-button {
+<<<<<<< HEAD
+=======
+  font-family: "Roboto", sans-serif;
+>>>>>>> 6504aac9bb9106edf674a4754c9fee79cda623f0
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -86,12 +145,30 @@ a {
   cursor: pointer;
 }
 
+<<<<<<< HEAD
 .hero-button-hover,
 .hero-button-focus {
+=======
+.hero-button:hover,
+.hero-button:focus {
+>>>>>>> 6504aac9bb9106edf674a4754c9fee79cda623f0
   background-color: #404bbf;
 }
 
 /*============================================*/
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
 
 .advant-title {
 }
@@ -102,7 +179,11 @@ a {
 .advant-list-item {
 }
 
+<<<<<<< HEAD
 .advant-motivation {
+=======
+.advant-motivation-title {
+>>>>>>> 6504aac9bb9106edf674a4754c9fee79cda623f0
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -111,7 +192,10 @@ a {
 }
 
 .advant-text {
+<<<<<<< HEAD
   font-weight: 400;
+=======
+>>>>>>> 6504aac9bb9106edf674a4754c9fee79cda623f0
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -121,9 +205,11 @@ a {
 /*============================================*/
 
 .team {
+  background-color: #f4f4fd;
 }
 
 .team-title {
+<<<<<<< HEAD
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -131,16 +217,27 @@ a {
   text-transform: capitalize;
   text-align: center;
   color: #2e2f42;
+=======
+>>>>>>> 6504aac9bb9106edf674a4754c9fee79cda623f0
 }
 
 .team-list {
 }
 
 .team-item {
+<<<<<<< HEAD
+=======
+  background-color: #ffffff;
+>>>>>>> 6504aac9bb9106edf674a4754c9fee79cda623f0
   box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
     0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
   border-radius: 0 0 4px 4px;
   padding: 0px 0px 32px 0px;
+<<<<<<< HEAD
+=======
+  width: 264px;
+  height: 380px;
+>>>>>>> 6504aac9bb9106edf674a4754c9fee79cda623f0
 }
 
 .team-image {
@@ -158,7 +255,10 @@ a {
 }
 
 .team-profession {
+<<<<<<< HEAD
   font-weight: 400;
+=======
+>>>>>>> 6504aac9bb9106edf674a4754c9fee79cda623f0
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -172,6 +272,7 @@ a {
 }
 
 .portfolio-title {
+<<<<<<< HEAD
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -179,6 +280,8 @@ a {
   text-transform: capitalize;
   text-align: center;
   color: #2e2f42;
+=======
+>>>>>>> 6504aac9bb9106edf674a4754c9fee79cda623f0
 }
 
 .portfolio-list {
@@ -188,14 +291,28 @@ a {
 }
 
 .portfolio-image {
+<<<<<<< HEAD
   width: 360;
   height: 300;
+=======
+  width: 360px;
+  height: 300px;
+>>>>>>> 6504aac9bb9106edf674a4754c9fee79cda623f0
 }
 
 .portfolio-services {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 .portfolio-chapter {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 
 .Portfolio-image {
@@ -222,7 +339,10 @@ a {
 }
 
 .footer-logo-text {
+<<<<<<< HEAD
   font-weight: 400;
+=======
+>>>>>>> 6504aac9bb9106edf674a4754c9fee79cda623f0
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
