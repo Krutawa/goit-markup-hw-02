@@ -29,6 +29,12 @@ a {
   color: #2e2f42;
 }
 
+.nav-list {
+}
+
+.nav-item {
+}
+
 .nav-link {
   font-weight: 500;
   font-size: 16px;
@@ -124,6 +130,7 @@ a {
 /*============================================*/
 
 .team {
+  background: #f4f4fd;
 }
 
 .team-title {
@@ -137,11 +144,10 @@ a {
 }
 
 .team-list {
+  background: #fff;
 }
 
 .team-item {
-  box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
-    0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
   border-radius: 0 0 4px 4px;
   padding: 0px 0px 32px 0px;
 }
@@ -196,6 +202,12 @@ a {
 }
 
 .portfolio-services {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
 }
 
 .portfolio-chapter {
