@@ -58,9 +58,8 @@ a {
   color: #434455;
 }
 
-.nav-link-hover,
-.nav-link-focus,
-.nav-link-active {
+.nav-item .nav-link:hover,
+.nav-item .nav-link:focus {
   color: #404bbf;
 }
 
@@ -94,11 +93,11 @@ a {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #404bbf;
+  color: #434455;
 }
 
-.address-link-hover,
-.address-link-focus {
+.address-link:hover,
+.address-link:focus {
   color: #404bbf;
 }
 
@@ -123,13 +122,13 @@ a {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
-  background: #4d5ae5;
+  background-color: #4d5ae5;
   cursor: pointer;
 }
 
-.hero-button-hover,
-.hero-button-focus {
-  background: #404bbf;
+.hero-button:hover,
+.hero-button:focus {
+  background-color: #404bbf;
 }
 
 /*============================================*/
@@ -180,14 +179,14 @@ a {
 }
 
 .team-item {
-  border-radius: 0 0 4px 4px;
-  padding: 0px 0px 32px 0px;
+  /* border-radius: 0 0 4px 4px;
+  padding: 0px 0px 32px 0px; */
   background: #fff;
 }
 
 .team-image {
-  width: 264px;
-  height: 260px;
+  /* width: 264px;
+  height: 260px; */
 }
 
 .team-name {
@@ -230,8 +229,8 @@ a {
 }
 
 .portfolio-image {
-  width: 360;
-  height: 300;
+  /* width: 360;
+  height: 300; */
 }
 
 .portfolio-services {
